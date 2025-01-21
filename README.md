@@ -1,5 +1,7 @@
 # Evgen.github.io
 # Добро пожаловать на тестовый сайт
+# Здесь собран определённый материал для проведения исследования 
+# Тема магистерской диссертации «Снижение воздействия акустических факторов на работников установки «Производство водорода» комплекса «Гидрокрекинг» ОАО«Нафтан»
 ![oxrana](https://github.com/user-attachments/assets/4e10c2f2-da62-4783-8739-f86b57ab8e20)
 [elibrary_18761394_11933267.pdf](https://github.com/user-attachments/files/18487539/elibrary_18761394_11933267.pdf)
 [elibrary_21452964_47949197.pdf](https://github.com/user-attachments/files/18487544/elibrary_21452964_47949197.pdf)
