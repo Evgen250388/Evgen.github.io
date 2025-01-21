@@ -3,8 +3,11 @@
 # Здесь собран определённый материал для проведения исследования 
 # Тема магистерской диссертации «Снижение воздействия акустических факторов на работников установки «Производство водорода» комплекса «Гидрокрекинг» ОАО«Нафтан»
 ![oxrana](https://github.com/user-attachments/assets/4e10c2f2-da62-4783-8739-f86b57ab8e20)
+
 [elibrary_18761394_11933267.pdf](https://github.com/user-attachments/files/18487539/elibrary_18761394_11933267.pdf)
+
 [elibrary_21452964_47949197.pdf](https://github.com/user-attachments/files/18487544/elibrary_21452964_47949197.pdf)
+
 [elibrary_19123048_25769174.pdf](https://github.com/user-attachments/files/18487543/elibrary_19123048_25769174.pdf)
 [meropriyatiya-po-snizheniyu-urovnya-shuma-na-rabochem-meste-na-primere-organizatsii.pdf](https://github.com/user-attachments/files/18487563/meropriyatiya-po-snizheniyu-urovnya-shuma-na-rabochem-meste-na-primere-organizatsii.pdf)
 [httpswww.elibrary.rudownloadelibrary_23399774_89358041.pdf.pdf](https://github.com/user-attachments/files/18487561/httpswww.elibrary.rudownloadelibrary_23399774_89358041.pdf.pdf)
